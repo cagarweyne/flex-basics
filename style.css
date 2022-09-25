@@ -1,0 +1,32 @@
+body {
+  background-color: aquamarine;
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  background-color: aliceblue;
+  width: 80%;
+  height: 1300px;
+  margin: 0 auto;
+  max-width: 75%;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-size: 50px;
+}
+
+.flex-container {
+}
+
+.flex-item {
+  background-color: #e66060;
+  margin: 30px;
+  font-size: 30px;
+  color: #fff;
+  padding: 20px;
+}
